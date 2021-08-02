@@ -1,10 +1,10 @@
 ### Hi there, I’m Sergey 👋
 
-→ 🗺️ I’m working on a C++ cartographic 3D engine at 2GIS. <br>
-→ 💻 Love C++, Python and chocolate. <br>
-→ 🤖 Love useful utilities, scripts, process automation, CI/CD, etc. <br>
-→ 📖 Love typography and writing. <br>
-→ 🎯 Love helping people achieve their goals.
+→ 🗺️ I’m working on a cartographic 3D engine at 2GIS. <br>
+→ 💻 Like C++ and Python. <br>
+→ 🤖 Like useful utilities, scripts, process automation, CI/CD, etc. <br>
+→ 📖 Like typography and writing. <br>
+→ 🎯 Like helping people achieve their goals.
 
 
 ### Connect with me:
