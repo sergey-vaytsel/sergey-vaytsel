@@ -28,8 +28,6 @@
 
 <br><br>
 
-[![Sergey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergey-vaytsel)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergey-vaytsel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
