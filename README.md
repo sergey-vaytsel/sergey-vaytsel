@@ -7,14 +7,12 @@
 → 🎯 Like helping people achieve their goals.
 
 
-### Connect with me:
+### Where to find me
 
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/goodreads.svg" />][goodreads]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" width="20px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
+[<img align="left" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="20px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="20px" src="https://simpleicons.org/icons/goodreads.svg" />][goodreads]
 
 <br><br>
 
