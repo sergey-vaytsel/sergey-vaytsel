@@ -25,4 +25,4 @@
 [linkedin]: https://www.linkedin.com/in/s-vaytsel
 [instagram]: https://www.instagram.com/vaytselsergey
 [gmail]: mailto:sergey.vaytsel@gmail.com
-[goodreads]: https://www.goodreads.com/user/show/88544319-sergey-vaytsel
+[goodreads]: https://www.goodreads.com/sergey_vaytsel
