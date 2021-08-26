@@ -23,6 +23,6 @@
 [vk]: https://vk.com/vaytsel_sa
 [facebook]: https://www.facebook.com/sergey.vaytsel
 [linkedin]: https://www.linkedin.com/in/s-vaytsel
-[instagram]: https://www.instagram.com/vaytselsergey
+[instagram]: https://www.instagram.com/sergey_vaytsel
 [gmail]: mailto:sergey.vaytsel@gmail.com
 [goodreads]: https://www.goodreads.com/sergey_vaytsel
