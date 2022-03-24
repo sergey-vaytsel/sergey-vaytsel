@@ -11,7 +11,6 @@
 
 [<img align="left" width="20px" src="https://simpleicons.org/icons/gmail.svg" />][gmail]
 [<img align="left" width="20px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
-[<img align="left" width="20px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" width="20px" src="https://simpleicons.org/icons/goodreads.svg" />][goodreads]
 
 <br><br>
@@ -21,8 +20,6 @@
 
 <!-- links -->
 [vk]: https://vk.com/vaytsel_sa
-[facebook]: https://www.facebook.com/sergey.vaytsel
 [linkedin]: https://www.linkedin.com/in/s-vaytsel
-[instagram]: https://www.instagram.com/sergey_vaytsel
 [gmail]: mailto:sergey.vaytsel@gmail.com
 [goodreads]: https://www.goodreads.com/sergey_vaytsel
