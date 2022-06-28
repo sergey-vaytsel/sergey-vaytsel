@@ -1,6 +1,5 @@
 ### Hi there, I’m Sergey 👋
 
-→ 🗺️ I’m working on a cartographic 3D engine at 2GIS. <br>
 → 💻 Like C++ and Python. <br>
 → 🤖 Like useful utilities, scripts, process automation, CI/CD, etc. <br>
 → 📖 Like typography and writing. <br>
