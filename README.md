@@ -3,7 +3,7 @@
 → 💻 Like C++ and Python. <br>
 → 🤖 Like useful utilities, scripts, process automation, CI/CD, etc. <br>
 → 📖 Like typography and writing. <br>
-→ 🎯 Like helping people achieve their goals.
+→ 🎯 Like to help people achieve their goals.
 
 
 ### Where to find me
